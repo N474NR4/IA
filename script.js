@@ -8,7 +8,7 @@ const imagemPergunta = document.getElementById("imagem-pergunta");
 const perguntas = [
     {
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
-        imagem: "caminho/para/imagem1.jpg", // Substitua pelo caminho da imagem
+        imagem: "img/img1.jpg", // Substitua pelo caminho da imagem
         alternativas: [
             {
                 texto: "Isso é assustador!",

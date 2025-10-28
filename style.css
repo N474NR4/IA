@@ -57,6 +57,8 @@ h1 {
     margin-bottom: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
     transition: transform 0.3s ease;
+    display: block;
+    margin: 0 auto;
 }
 
 #imagem-pergunta:hover {
